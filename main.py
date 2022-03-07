@@ -32,4 +32,4 @@ if __name__ == '__main__':
 
 
 
-bot.run('OTMxMjEyMzUxNTczNzQ1Njc0.YeBJFQ.05EiLSpQ9ogAi36npfZkvm15V2I')
+bot.run('OTMxMjEyMzUxNTczNzQ1Njc0.YeBJFQ.05EiLSpQ9ogAi36npfZkvm15V2I')#Alter Token
